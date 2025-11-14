@@ -15,7 +15,7 @@ index.html
         <img src="aluno coloque aqui a foto da atividade "Protagonismo Negro" alt="foto da atividade do aluno" width="200">
         <h2>DESAFIO <h2>
             <h2>IMPLEMENTAÇÃO DE PROGRAMAÇÃO</h2>
-        <p> Olá! Meu nome é __________________.<p>
+        <p> Olá! Meu nome é milena gomes da silva dos santos.<p>
         <p> Estudo no Colégio Cívico-Militar Padre Antônio Vieira em São José dos Pinhais/Paraná.</p>
         <p> Sou aluno(a) do 1º ano do ensino médio da professora Andreza de arte.</p>
        
@@ -26,6 +26,9 @@ index.html
         <ul>
                 <li>1. Conte como foi esta experiência para você.</li>
                 <li>2. O que aprendeu sobre você mesmo?</li>
+        <p> 1-foi uma ótima experiência, pois eu consegui trabalhar a criatividade de modo geral e descobrir coisas sobre os nossos antepassados
+            2-gosto muito de coisas sobre a antiguidade, então fazer a parte e moda para mim foi muito bom e criativo  
+        </p>
         </ul>
 
     </header>
